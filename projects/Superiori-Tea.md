@@ -1,3 +1,1 @@
-A tea harvesting game. Built with react framework. Separate Rails API built for persistence.
-
-Build with: React/Redux
+A tea harvesting game. Built with react framework. Separate Rails API built for persistence. Build with: React/Redux
